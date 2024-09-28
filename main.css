@@ -1,0 +1,85 @@
+.virtual{
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 30px;
+} 
+.sariq{
+    background-color: yellow;
+}
+.salom{
+    background-color: blueviolet;
+}
+.red{
+   background-color: red; 
+}
+.green{
+   color: green;
+}
+.sariq{
+    text-align: center;
+     background-color: yellow; 
+
+}
+.sariq{
+   background-color: yellow; 
+}
+  .green{
+    color: green;
+  }  
+  .nma1{
+    width: 100%;
+  }
+s{
+
+   background-color: aqua; 
+}
+.zor{
+  color: aqua;  
+}
+.yoq{
+   text-align: center;
+   background-color: yellow;
+}
+   *{
+    margin:  0px ;
+padding: 0px;
+box-sizing: border-box;
+
+   }
+    .cars{
+       border-collapse: collapse;
+        
+
+    } 
+   .car_laist{
+    border: 1px solid black;
+    width: 1100px;
+
+   }
+.car_laist1{
+    border: 1px solid black;
+    width: 200px;
+    background-color: green;
+    color: aliceblue;
+}
+.car_laist{
+    background-color:blue ;
+    color: aliceblue;
+}
+.car_laist2{
+    background-color: red;
+    color: aliceblue;
+  }
+
+.car_laist5{
+    background-color:black;
+    color: aliceblue;
+}
+   .car_laist6{
+    background-color: red;
+
+   }
+.car_laist7{
+    background-color: black;
+color: aliceblue;
+}
